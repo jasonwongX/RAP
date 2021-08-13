@@ -1,4 +1,4 @@
-FROM tomcat:8.0-jre8
+FROM tomcat:8.5.41-jre8
 #https://github.com/docker-library/tomcat
 
 ENV PATH $CATALINA_HOME/bin:$PATH
